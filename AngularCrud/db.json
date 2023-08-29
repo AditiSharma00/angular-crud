@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": ""
+    }
+  ],
+  "employee": [
+    {
+      "firstName": "aditi",
+      "lastName": "sharma",
+      "email": "sharmaaneesh00@gmail.com",
+      "dob": "2023-08-07T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "ss",
+      "experience": 1,
+      "package": 1,
+      "id": 1
+    }
+  ]
+}
