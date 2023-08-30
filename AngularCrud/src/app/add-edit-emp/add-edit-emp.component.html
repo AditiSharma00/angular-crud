@@ -90,8 +90,8 @@
 
 
   <div mat-dialog-actions class="action">
-    <button mat-raised-button color="primary">Cancel</button>
-    <button mat-raised-button color="warn">Save</button>
+    <button mat-raised-button color="primary" type="button" [mat-dialog-close]="false">Cancel</button>
+    <button mat-raised-button color="warn">{{data?"Update":"Save"}}</button>
 
 
   </div>

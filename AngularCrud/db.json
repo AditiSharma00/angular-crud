@@ -28,8 +28,68 @@
       "education": "Graduate",
       "company": "ss",
       "experience": 1,
-      "package": 1,
+      "package": 5,
       "id": 1
+    },
+    {
+      "firstName": "aadi",
+      "lastName": "shar",
+      "email": "aneesh00@gmail.com",
+      "dob": "2017-02-06T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "fitelo",
+      "experience": 2,
+      "package": 2,
+      "id": 2
+    },
+    {
+      "firstName": "henry",
+      "lastName": "verma",
+      "email": "a@gmail.com",
+      "dob": "2023-08-07T18:30:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "fooky",
+      "experience": 1,
+      "package": 1,
+      "id": 4
+    },
+    {
+      "firstName": "aashu",
+      "lastName": "mishra",
+      "email": "shi3@gmail.com",
+      "dob": "2023-08-17T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "apple",
+      "experience": 1,
+      "package": 4,
+      "id": 5
+    },
+    {
+      "firstName": "disha",
+      "lastName": "pathan",
+      "email": "d@gmail.com",
+      "dob": "2023-08-09T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "xyz",
+      "experience": 2,
+      "package": 26,
+      "id": 6
+    },
+    {
+      "firstName": "henry",
+      "lastName": "verma",
+      "email": "a@gmail.com",
+      "dob": "2023-08-07T18:30:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "farifo",
+      "experience": 1,
+      "package": 1,
+      "id": 7
     }
   ]
 }
